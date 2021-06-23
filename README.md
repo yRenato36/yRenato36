@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yRenato36
-- 👀 I’m interested in Python, Javascript, HTML5 and CSS
-- 🌱 I’m currently learning Javascript, HTML5 and CSS
+- 👀 I’m interested in Python, Javascript, HTML5 and CSS3
+- 🌱 I’m currently learning Javascript, HTML5 and CSS3
 - 📫 Contact me: renato.silva15948@gmail.com
 
 <!---
