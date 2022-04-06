@@ -1,4 +1,7 @@
-## ✌ Olá, eu sou o **Renato Santana** ou só **yRenato36**, como você quiser me chamar. 😉
+ <div>
+ <img src= "https://readme-typing-svg.herokuapp.com?font=arial&size=25&duration=3000&color=F76000&center=true&vCenter=true&height=23&lines=Seja+Bem-Vindo+ao+meu+perfil">
+
+  ## ✌ Olá, eu sou o **Renato Santana** ou só **yRenato36**, como você quiser me chamar. 😉
 
 - 📙 Eu estou cursando o **2º Semestre de Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba**. Além disso, sempre busco adquirir novos conhecimentos para aprimorar minhas habilidades no mundo da tecnologia.
 
@@ -28,7 +31,8 @@
   <a href="https://instagram.com/y" target="_blank"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/renatosantana36" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
+
+## 📈 GitHub Stats
 ![Snake animation](https://github.com/yRenato36/yRenato36/blob/output/github-contribution-grid-snake.svg)
 
 <!---
