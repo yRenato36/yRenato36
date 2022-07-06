@@ -10,7 +10,7 @@
 - 📩 Meu contato: renato.silva15948@gmail.com
 
 ##
-
+-  **Interesses**
 <div align="center">
   <a href="https://github.com/yRenato36">
   <img align="left" width="48% height="180em" src="https://github-readme-stats.vercel.app/api?username=yRenato36&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -22,8 +22,6 @@
   <img align="center" alt="re-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="re-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-- 👨‍💻 Tecnologia que estou estudando atualmente: **Java**
   
   <div> 
   <a href="https://twitter.com/yTatuu36" target="_blank"><img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" /></a>
