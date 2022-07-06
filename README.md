@@ -10,10 +10,10 @@
 - 📩 Meu contato: renato.silva15948@gmail.com
 
 -  **Interesses**
- Javascript
- Html
- CSS
- React
+ Javascript,
+ Html,
+ CSS,
+ React.
 
 ##
 
