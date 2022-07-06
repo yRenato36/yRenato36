@@ -9,7 +9,7 @@
 
 - 📩 Meu contato: renato.silva15948@gmail.com
 
--  **Interesses**
+-  **Interesses:**
  Javascript,
  Html,
  CSS,
