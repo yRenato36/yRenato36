@@ -9,6 +9,12 @@
 
 - 📩 Meu contato: renato.silva15948@gmail.com
 
+-  **Interesses**
+ Javascript
+ Html
+ CSS
+ React
+
 ##
 
  <div align="center">
