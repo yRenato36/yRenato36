@@ -3,7 +3,7 @@
 
   ## ✌ Olá, eu sou o **Renato Santana** ou só **yRenato36**, como você quiser me chamar. 😉
 
-- 📙 Eu estou cursando o **3º Semestre de Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba**. Além disso, sempre busco adquirir novos conhecimentos para aprimorar minhas habilidades no mundo da tecnologia.
+- 📙 Eu estou cursando o **4º Semestre de Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba**. Além disso, sempre busco adquirir novos conhecimentos para aprimorar minhas habilidades no mundo da tecnologia.
 
 - 👨‍💻 Tecnologia que estou estudando atualmente: **C#, Asp.Net, Javascript, Html, CSS**
 
