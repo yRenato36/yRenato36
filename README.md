@@ -18,7 +18,7 @@
 </div>
 
 <div> 
-  <a href="https://instagram.com/yTatuu36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/renato_santana36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/renato-da-silva-santana-75522a212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
