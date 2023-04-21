@@ -5,7 +5,7 @@
 
 - 📙 Eu estou cursando o **4º Semestre de Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba**. Além disso, sempre busco adquirir novos conhecimentos para aprimorar minhas habilidades no mundo da tecnologia.
 
-- 👨‍💻 Tecnologia que estou estudando atualmente: **Javascript, TypeScript, Html, CSS, React**
+- 👨‍💻 Tecnologias que estou estudando atualmente: **Javascript, TypeScript, Html, CSS, React**
 
 - 📩 Meu contato: renato.silva15948@gmail.com
 
